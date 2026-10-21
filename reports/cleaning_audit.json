@@ -1,0 +1,15 @@
+{
+  "source_file": "spcx(1).csv",
+  "raw_sha256": "a92cb86a60a486d5dfe3667ba31eeddcdadee8670bd5f27eba9039314a82a40e",
+  "input_price_rows": 89,
+  "output_rows": 89,
+  "exact_duplicates_removed": 0,
+  "missing_values": 0,
+  "max_price_rounding_change_usd": 7.32421875682121e-06,
+  "start_date": "2026-06-12",
+  "end_date": "2026-10-19",
+  "adjustment_status": "Unknown: source export does not record auto_adjust setting",
+  "collection_timestamp": "Not supplied",
+  "source_version": "Not supplied",
+  "clean_sha256": "cf6f8dbaef2b259fdc98ce83db2f314bb9350d2b95f69a3578675ab1a66a0c11"
+}

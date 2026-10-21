@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Please cite this project and its Yahoo Finance/yfinance data provenance."
+title: "SpaceX (SPCX) Historical Stock Prices 2026"
+authors:
+  - name: "Muhammad Ibrahim Shahrukh"
+version: "1.0.0"
+date-released: "2026-10-20"
+type: dataset
+abstract: "Cleaned SPCX daily OHLCV snapshot, interactive EDA and conditional 2026 forecasts."

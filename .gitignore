@@ -1,0 +1,29 @@
+# Python and notebook caches
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.pytest_cache/
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+kaggle.json
+credentials*.json
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+# Regenerated iframe assets (the standalone HTML report is retained)
+iframe_figures/
+**/iframe_figures/
+# Temporary and model artifacts
+*.log
+*.tmp
+*.joblib
+*.pkl
+# Original third-party export is supplied in the download, excluded from git by default.
+data/raw/
+# Keep clean CSV, notebook, documentation and reproducibility reports.

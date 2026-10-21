@@ -1,0 +1,21 @@
+{
+  "author": "Muhammad Ibrahim Shahrukh",
+  "rows": 89,
+  "start": "2026-06-12",
+  "end": "2026-10-19",
+  "last_close": 147.96,
+  "close_change_pct": -8.070829450139783,
+  "max_drawdown_pct": -48.78187236860778,
+  "selected_model": "LastClose",
+  "holdout_mae": 6.911499999999995,
+  "baseline_holdout_mae": 6.911499999999995,
+  "holdout_rmse": 8.90446994492092,
+  "forecast_sessions": 51,
+  "year_end_point": 147.96,
+  "year_end_low80": 108.20872017034016,
+  "year_end_high80": 211.05136010941087,
+  "year_end_low95": 94.2270206498166,
+  "year_end_high95": 254.57914265141122,
+  "holdout_scenario_coverage80_pct": 100.0,
+  "holdout_scenario_coverage95_pct": 100.0
+}
